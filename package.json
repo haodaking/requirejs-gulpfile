@@ -1,0 +1,27 @@
+{
+  "name": "requirejs-gulpfile",
+  "version": "1.0.0",
+  "description": "requirejs的gulp配置",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haodaking/requirejs-gulpfile.git"
+  },
+  "keywords": [
+    "requirejs",
+    "gulp"
+  ],
+  "author": "MaxWang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haodaking/requirejs-gulpfile/issues"
+  },
+  "homepage": "https://github.com/haodaking/requirejs-gulpfile#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-requirejs-optimize": "^1.2.0"
+  }
+}
