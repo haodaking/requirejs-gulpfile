@@ -4,7 +4,12 @@
 ```sh
 https://nodejs.org/en/
 ```
-### 2. 运行gulp命令，打包requirejs
+### 2. 安装依赖模块
+
+```sh
+$ npm install
+```
+### 3. 运行gulp命令，打包requirejs
 
 ```sh
 $ gulp scripts
